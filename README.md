@@ -21,7 +21,7 @@ Source-code for the application is also available in the sourcecode sub-director
 * Microsoft Azure .NET SDK http://azure.microsoft.com/en-us/downloads
 
 ### Documentation
-For the installation documentation plesae see the Azure Data Services HOL configuration guide (https://github.com/Microsoft/WingTipTickets/blob/master/Azure%20Data%20Services%20HOL%20Configuration%20Guide.docx).  
+For the installation documentation please see the Azure Data Services HOL configuration guide (https://github.com/Microsoft/WingTipTickets/blob/master/Azure%20Data%20Services%20HOL%20Configuration%20Guide.docx).  
 
 **NOTE:** Please don't use "Download ZIP" to get this repository, as it will change the line endings in the data file. Use "git clone" or the GitHub client to get a local copy of this repository. 
 
